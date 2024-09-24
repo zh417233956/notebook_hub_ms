@@ -1,3 +1,7 @@
+# my config
+demo/
+.virtual_documents/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
